@@ -1,0 +1,50 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Ambika",
+                "role" : "Technical skill Trainer",
+                "email" : "ambika_p@apssdc.in",
+                "mobile": "+91 9491297660"
+            },
+            "about":[
+                {
+                    "experience":"Having experience of 1.5+ years as Technical Skill Trainer in Andhra Pradesh State Skill Development Corporation(APSSDC). Trained approximately 2000+ students so far in short term & long term training programs. Having Good Knowledge in Python,Git&Github,MIT App Inventor and Raptor."
+                }
+            ],
+            "skillset":[
+                {
+                    "pro":" Program Languages : Python, Java, C",
+                    "fram":"Framworks : Django, Flask, Reactjs, Javascript",
+                    "os":"Operating Systems : Windows, Linux",
+                    "web":"Web Technologies : HTML5, CSS3, Bootstrap4"
+                }
+            ],
+            "certifications":[
+                {
+                    "name":"Python for Everybody",
+                    "university":"Michigan university"
+                },
+                {
+                    "name":"FullStack Nano Degree Certification",
+                    "university":"Udacity"
+                }
+            ],
+            "education":[
+                {
+                    "degree":"B-Tech (ECE)",
+                    "institution": "Shri Vishnu Engineering College for Women, West Godavari"
+                },
+                {
+                    "degree":"Diploma(ECE)",
+                    "institution":"A.A.N.M & V.V.R.S.R Polytechnic, Gudlavalleru"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "Sree Rama Krishna High School, Machilipatnam"
+                }
+            ]
+        }
+        
+    ]
+}
